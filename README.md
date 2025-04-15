@@ -1,4 +1,3 @@
-```markdown
 # Módulo de Validação de E-mail
 
 ## Visão Geral
@@ -110,4 +109,3 @@ Se você encontrar problemas ou tiver sugestões de melhoria, entre em contato c
 ## Licença
 
 Este módulo é fornecido "no estado em que se encontra", sem garantias expressas ou implícitas. Você é livre para usá-lo, modificá-lo e distribuí-lo, respeitando os termos de licença aplicáveis ao seu sistema.
-```
